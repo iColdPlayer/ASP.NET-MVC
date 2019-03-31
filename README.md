@@ -7,8 +7,18 @@ This app is example about how to integrate [AdminLTE](https://adminlte.io) with 
 
 There are a login partial that we need to login to access the admin dashboard, etc.
 
-You can clone this repo and run locally by using this following command :
 
+First, make sure you already have dotnet installed on you pc.
+
+If you haven't installed yet, you follow the instructions for [how to install ASP.NET Core](https://dev.notnoob.com/cara-install-asp.net-pada-linux/) 
+
+You can clone or download this repo and run locally by using this following command :
 ```
-$ git clone 
+$ git clone https://github.com/iColdPlayer/ASP.NET-MVC.git
+$ cd ASP.NET-MVC
+$ dotnet run
 ```
+And you're ready to go.
+Please feel free to edit or pull request for future use.
+
+Thank's for coming.
