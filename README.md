@@ -6,7 +6,7 @@ This is my first time using ASP.NET Core MVC, and this app is example about how 
 
 First, make sure you already have dotnet installed on you pc.
 
-If you haven't installed yet, you follow the instructions for [how to install ASP.NET Core](https://dev.notnoob.com/cara-install-asp.net-pada-linux/) 
+If you haven't installed yet, please follow this instructions for [how to install ASP.NET Core](https://dev.notnoob.com/cara-install-asp.net-pada-linux/) 
 
 You can clone or download this repo and run locally by using this following command :
 ```
