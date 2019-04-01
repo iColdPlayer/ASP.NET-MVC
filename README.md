@@ -1,7 +1,7 @@
 # ASP.NET-MVC
 Login Page And Dashboard With .NET Core MVC
 
-This is my first time using ASP.NET Core MVC, and this app is example about how to integrate [AdminLTE](https://adminlte.io) with ASP.NET Core MVC. There are a login partial that we need to login to access the admin dashboard, etc.
+ASP.NET Core MVC, and this app is just an example about how to integrate [AdminLTE](https://adminlte.io) with ASP.NET Core MVC. There are a login partial that we need to login to access the admin dashboard, etc.
 
 
 First, make sure you already have dotnet installed on you pc.
